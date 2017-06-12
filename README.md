@@ -3,6 +3,8 @@
 
 # bitwarden Directory Connector
 
+[![Build Status](https://secure.travis-ci.org/robisys/directory-connector.svg?branch=master)](https://travis-ci.org/robisys/directory-connector)
+
 The bitwarden Directory Connector is a command line application used to connect your bitwarden enterprise organization to an existing directory of users and groups.
 It is written in C# with the .NET Framework. It consists of a console application and an optional windows service to run syncs in the background on a specified interval.
 
