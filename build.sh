@@ -8,7 +8,7 @@
 # cd src/Mail
 cd src/App
 #dotnet sln  bitwarden-directory-connector-noinstaller.sln  list
-dotnet restore 
+dotnet restore  --verbosity d
 dotnet build
 #dotnet build -f 461
  dotnet run
