@@ -1,5 +1,5 @@
 language: csharp
-solution: bitwarden-core.sln
+solution: bitwarden-directory-connector-noinstaller.sln
 dist: trusty
 sudo: required
 mono: none
