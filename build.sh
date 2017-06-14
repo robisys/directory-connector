@@ -6,7 +6,7 @@
 # dotnet  test --help
 # cd src/Core
 # cd src/Mail
-cd src/Api
+#cd src/Api
 dotnet restore  bitwarden-directory-connector-noinstaller.sln 
 dotnet build
 #dotnet build -f 461
