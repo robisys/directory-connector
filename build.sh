@@ -7,7 +7,7 @@
 # cd src/Core
 # cd src/Mail
 cd src/Api
-dotnet restore
+dotnet restore  bitwarden-directory-connector-noinstaller.sln 
 dotnet build
 #dotnet build -f 461
  dotnet run
